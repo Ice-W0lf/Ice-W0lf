@@ -17,7 +17,7 @@
 
 ![Ice-W0lf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ice-W0lf&show_icons=true&theme=algolia)
 
-[![Ice-W0lfTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-W0lf&theme=algolia&layout=compact)](https://github.com/Ice-W0lf/github-readme-stats)
+![Ice-W0lfTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-W0lf&theme=algolia&layout=compact)
 
 <!--
 **Ice-W0lf/Ice-W0lf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
