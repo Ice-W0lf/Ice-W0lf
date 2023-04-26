@@ -9,8 +9,8 @@
 - ❄️ Currently living and studying in Harbin
 - 🤖 Interested in AI, hoping to make some contributes in the future
 
-### Technical stack
-- Mastered: [[](https://img.shields.io/badge/PTMs-From huggingface-plastic?logo=#3776AB&logoColor=white&link=https://huggingface.co/)](https://img.shields.io/badge/python-plastic?logo=python&logoColor=white&color=blue&link=https://huggingface.co/)
+### Tech stack
+- Mastered: <img src="https://img.shields.io/badge/Python-plastic?logo=python&logoColor=white&color=blue&link=https://huggingface.co/"> <img src="https://img.shields.io/badge/C-plastic?logo=C&logoColor=white&color=brown&link=https://huggingface.co/"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white&color=green">
 
 [![Ice-W0lf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ice-W0lf&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
