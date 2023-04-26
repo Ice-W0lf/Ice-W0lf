@@ -1,6 +1,6 @@
 ![01rain](https://user-images.githubusercontent.com/88833541/234557176-65170a38-f59b-4745-b672-cde1d9f36626.jpg)
 
-### Hello World！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello World！![Earth](https://user-images.githubusercontent.com/88833541/234564703-ee93a70f-7815-45b4-86df-efd8e1133248.gif)
 
 ### I'm Ice-W0lf 🧊
 - 🖥️ A computer science undergraduate 
