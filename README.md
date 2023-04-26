@@ -10,7 +10,9 @@
 - 🤖 Interested in AI, hoping to make some contributes in the future
 
 ### Tech stack
-- Mastered: <img src="https://img.shields.io/badge/Python-plastic?logo=python&logoColor=white&color=blue&link=https://huggingface.co/"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white&color=green"> <img src="https://img.shields.io/badge/-Java%20-brown">
+- Mastered: <img src="https://img.shields.io/badge/Python-plastic?logo=python&logoColor=white&color=blue"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white&color=green"> <img src="https://img.shields.io/badge/-Java%20-brown">
+- Having used: <img src="https://img.shields.io/badge/Android-plastic?logo=android&logoColor=green&color=darkgreen"> <img src="https://img.shields.io/badge/MySQL-plastic?logo=mysql&logoColor=blue&color=darkblue"> <img src="https://img.shields.io/badge/HTML-plastic?logo=html5&logoColor=white&color=purple">
+- Know a little:  <img src="https://img.shields.io/badge/Javascript-plastic?logo=javascript&logoColor=white&color=orange">  <img src="">
 
 [![Ice-W0lf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ice-W0lf&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
