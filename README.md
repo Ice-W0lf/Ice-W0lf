@@ -11,8 +11,8 @@
 
 ### Tech stack
 - Mastered: <img src="https://img.shields.io/badge/Python-plastic?logo=python&logoColor=white&color=blue"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white&color=green"> <img src="https://img.shields.io/badge/-Java%20-brown">
-- Having used: <img src="https://img.shields.io/badge/Android|Kotlin-plastic?logo=android&logoColor=green&color=darkgreen"> <img src="https://img.shields.io/badge/MySQL-plastic?logo=mysql&logoColor=blue&color=white"> <img src="https://img.shields.io/badge/HTML-plastic?logo=html5&logoColor=white&color=purple">
-- Know a little:  <img src="https://img.shields.io/badge/Javascript-plastic?logo=javascript&logoColor=black&color=yellow"> <img src="">
+- Having used: <img src="https://img.shields.io/badge/Android|Kotlin-plastic?logo=android&logoColor=green&color=darkgreen"> <img src="https://img.shields.io/badge/MySQL-plastic?logo=mysql&logoColor=blue&color=white"> <img src="https://img.shields.io/badge/HTML-plastic?logo=html5&logoColor=white&color=orange"> <img src="https://img.shields.io/badge/Scheme-plastic?logo=&logoColor=yellow&color=purple"> <img src="https://img.shields.io/badge/LaTeX-plastic?logo=latex&logoColor=188080&color=f0eee7"> <img src="https://img.shields.io/badge/Verilog-plastic?logo=xilinx&logoColor=white&color=darkred">
+- Know a little:  <img src="https://img.shields.io/badge/Javascript-plastic?logo=javascript&logoColor=black&color=yellow"> <img src=>
 
 [![Ice-W0lf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ice-W0lf&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
