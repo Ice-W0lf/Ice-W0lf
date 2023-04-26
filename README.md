@@ -13,7 +13,7 @@
 
 [![Ice-W0lfTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-W0lf&theme=algolia&layout=compact)](https://github.com/Ice-W0lf/github-readme-stats)
 
-[![Visitor Count]](https://profile-counter.glitch.me/Ice-W0lf/count.svg)
+[!Visitor Count](https://profile-counter.glitch.me/Ice-W0lf/count.svg)
 
 
 
