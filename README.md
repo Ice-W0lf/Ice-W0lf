@@ -3,7 +3,9 @@
 
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-W0lf&theme=tokyonight)](https://github.com/Ice-W0lf/github-readme-stats)
+[![Ice-W0lf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ice-W0lf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ice-W0lfTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-W0lf&theme=tokyonight)](https://github.com/Ice-W0lf/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/Ice-W0lf/count.svg)
 
