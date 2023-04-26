@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/88833541/234557176-65170a38-f59b-4745-b672-cde1d9f36626.jpg">
 </p>
 
-### 👋 Hello World!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# 👋 Hello World!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### I'm Ice Wolf 🧊
 - 🖥️ A computer science undergraduate 
