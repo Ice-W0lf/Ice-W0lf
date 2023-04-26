@@ -1,6 +1,9 @@
+![01rain](https://user-images.githubusercontent.com/88833541/234556844-4610b921-a1a4-4408-8dad-9ebf591502d5.jpg)
+
+
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-W0lf)](https://github.com/Ice-W0lf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-W0lf&theme=tokyonight)](https://github.com/Ice-W0lf/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/Ice-W0lf/count.svg)
 
