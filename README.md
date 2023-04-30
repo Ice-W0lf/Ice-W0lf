@@ -15,6 +15,8 @@
 - Having used: <img src="https://img.shields.io/badge/Android|Kotlin-plastic?logo=android&logoColor=green&color=darkgreen"> <img src="https://img.shields.io/badge/MySQL-plastic?logo=mysql&logoColor=blue&color=white"> <img src="https://img.shields.io/badge/HTML-plastic?logo=html5&logoColor=white&color=orange"> <img src="https://img.shields.io/badge/Scheme-plastic?logo=&logoColor=yellow&color=purple"> <img src="https://img.shields.io/badge/LaTeX-plastic?logo=latex&logoColor=188080&color=f0eee7"> <img src="https://img.shields.io/badge/Verilog-plastic?logo=xilinx&logoColor=white&color=darkred">
 - Know a little:  <img src="https://img.shields.io/badge/Javascript-plastic?logo=javascript&logoColor=black&color=yellow"> <img src="https://img.shields.io/badge/JSON-plastic?logo=json&logoColor=white&color=grey">
 
+![](https://komarev.com/ghpvc/?username=Ice-W0lf&style=flat-square)
+
 ![Ice-W0lf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ice-W0lf&show_icons=true&theme=algolia)
 
 ![Ice-W0lfTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-W0lf&theme=algolia&layout=compact)
@@ -33,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=88833541)
